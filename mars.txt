@@ -3,7 +3,9 @@ Cold, dry. Everything is my favourite colour.
 Evil friends
 -----------
 
-There's two moons, wolfman may have a problem with that.
+There's two moons, wolfman may have a problem with that.<<<<<<< HEAD
 Surprising lack of atmosphere.≈
 "Like whoh!!!! Atmosphere dude!!!"
+=======
+Surprising lack of atmosphere. We won't be able to breath.
 Low humidity is good for The mummy.
